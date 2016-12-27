@@ -24,7 +24,7 @@ namespace lllll
 				for (int j = 0; j < i+1; j++)
 				{
 					Console.Write("{0} ", array[i, j]);
-					s += array[i, j];
+				
 				}
 				Console.WriteLine();
 			}
